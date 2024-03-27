@@ -1,0 +1,15 @@
+C:\Users\komar\RiderProjects\kezirat\kezirat\bin\Debug\net8.0\kezirat.exe
+C:\Users\komar\RiderProjects\kezirat\kezirat\bin\Debug\net8.0\kezirat.deps.json
+C:\Users\komar\RiderProjects\kezirat\kezirat\bin\Debug\net8.0\kezirat.runtimeconfig.json
+C:\Users\komar\RiderProjects\kezirat\kezirat\bin\Debug\net8.0\kezirat.dll
+C:\Users\komar\RiderProjects\kezirat\kezirat\bin\Debug\net8.0\kezirat.pdb
+C:\Users\komar\RiderProjects\kezirat\kezirat\obj\Debug\net8.0\kezirat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komar\RiderProjects\kezirat\kezirat\obj\Debug\net8.0\kezirat.AssemblyInfoInputs.cache
+C:\Users\komar\RiderProjects\kezirat\kezirat\obj\Debug\net8.0\kezirat.AssemblyInfo.cs
+C:\Users\komar\RiderProjects\kezirat\kezirat\obj\Debug\net8.0\kezirat.csproj.CoreCompileInputs.cache
+C:\Users\komar\RiderProjects\kezirat\kezirat\obj\Debug\net8.0\kezirat.sourcelink.json
+C:\Users\komar\RiderProjects\kezirat\kezirat\obj\Debug\net8.0\kezirat.dll
+C:\Users\komar\RiderProjects\kezirat\kezirat\obj\Debug\net8.0\refint\kezirat.dll
+C:\Users\komar\RiderProjects\kezirat\kezirat\obj\Debug\net8.0\kezirat.pdb
+C:\Users\komar\RiderProjects\kezirat\kezirat\obj\Debug\net8.0\kezirat.genruntimeconfig.cache
+C:\Users\komar\RiderProjects\kezirat\kezirat\obj\Debug\net8.0\ref\kezirat.dll

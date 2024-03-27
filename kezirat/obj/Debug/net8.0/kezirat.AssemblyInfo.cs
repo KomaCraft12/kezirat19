@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kezirat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61cf0c43def2b522cb24307b37e30fc430d1af42")]
 [assembly: System.Reflection.AssemblyProductAttribute("kezirat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kezirat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
